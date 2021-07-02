@@ -97,7 +97,7 @@
     "gulp-typedoc-extractor": "0.0.8",
     "gulp-typescript": "^2.13.6",
     "gulp-util": "^3.0.7",
-    "jasmine-core": "^2.4.1",
+    "jasmine-core": "^3.8.0",
     "karma": "^1.1.2",
     "karma-babel-preprocessor": "^6.0.1",
     "karma-chrome-launcher": "^1.0.1",
